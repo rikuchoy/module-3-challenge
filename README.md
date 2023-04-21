@@ -1,4 +1,4 @@
-# week-3-challenge
+# week-3-challenge - Random Password Generator
 
 ## User Story
 AS AN employee with access to sensitive data
@@ -22,7 +22,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-![example screenshot with hover effect](assets/ss.png)
+![example screenshot](assets/ssc3.png)
 
 ## Link to Page
-[Click to view page](https://rikuchoy.github.io/week-2-challenge/)
+[Click to view page](https://rikuchoy.github.io/week-3-challenge/)
