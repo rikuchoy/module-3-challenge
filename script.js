@@ -39,7 +39,7 @@ function generatePassword() {
   return password;
 }
 
-function getPrompts(){
+function getPrompts() {
     choiceArr = [];
     
     characterLength = parseInt(prompt("Choose a password length (type number from 8 - 128)"));
@@ -64,5 +64,6 @@ function getPrompts(){
     if (confirm("Would you like numbers in your password?")) {
         choiceArr = choiceArr.concat(numberArr);
     }
+    return true;
 }
 
